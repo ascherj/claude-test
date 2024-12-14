@@ -1,3 +1,2 @@
 fastapi[standard]
-sqlalchemy
 psycopg2-binary
